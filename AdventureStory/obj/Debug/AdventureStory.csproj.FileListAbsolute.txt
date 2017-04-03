@@ -1,0 +1,6 @@
+c:\users\lisa\documents\visual studio 2015\Projects\AdventureStory\AdventureStory\bin\Debug\AdventureStory.exe.config
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\AdventureStory\AdventureStory\obj\Debug\AdventureStory.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\AdventureStory\AdventureStory\bin\Debug\AdventureStory.exe
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\AdventureStory\AdventureStory\bin\Debug\AdventureStory.pdb
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\AdventureStory\AdventureStory\obj\Debug\AdventureStory.exe
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\AdventureStory\AdventureStory\obj\Debug\AdventureStory.pdb
